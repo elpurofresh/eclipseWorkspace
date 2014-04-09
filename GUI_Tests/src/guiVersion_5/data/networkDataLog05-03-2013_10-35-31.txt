@@ -1,0 +1,10 @@
+RxD/TxD Master Node Rate:	0/7 = 0	
+RxD/TxD Master Node Rate:	0/15 = 0	
+RxD/TxD Master Node Rate:	0/23 = 0	
+RxD/TxD Master Node Rate:	0/31 = 0	
+RxD/TxD Master Node Rate:	0/39 = 0	
+RxD/TxD Master Node Rate:	0/47 = 0	
+RxD/TxD Master Node Rate:	0/55 = 0	
+RxD/TxD Master Node Rate:	0/63 = 0	
+RxD/TxD Master Node Rate:	0/71 = 0	
+RxD/TxD Master Node Rate:	0/79 = 0	

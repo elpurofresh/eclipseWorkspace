@@ -1,0 +1,2 @@
+RxD/TxD Master Node Rate:	0/7 = 0	
+RxD/TxD Master Node Rate:	0/15 = 0	
